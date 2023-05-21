@@ -1,0 +1,28 @@
+What is Bad Architecture ?
+
+Complex : Karmaşık
+Incoherent : Tutarsız
+Rigid : Katı (Değişmeye direnç)
+Brittle : Kırılgan (Kodun bir kısmına dokunmak başka bir yerde sorun yaratabilir)
+Untestable : Test edilmesine karşı savaşır
+Unmaintainable : Sürdürülemez 
+
+What is Good Architecture ?
+
+Simple : Anlaşılabilir
+Understandable : Yazılım hakkında akıl yürütmek kolaydır
+Flexible: Esnek 
+Emergen : Ömrü boyunca geliştirilebilir.
+Testable : Test edilmesi daha kolay 
+Maintabinale : Sürdürülebilir bir mimari
+
+What Invest is Clean Architecture ?
+
+Cost/Benefit
+Minimize Cost (yazılım oluşturma ve bakım maaliyeti en az)
+Maximize Business Value (İş değeri olan faydayı en üst düzeye )
+Maximize ROI (Yatırım getirisini en üst düzeye)
+Focus on the Essential (Kullanıcıların temel ihtiyaçlarına odaklanır)
+Build only what is necesary (Yanlızca gerektiğinde gerekli olanı inşa eder)
+Optimize for maintainability (Sürdürülebilirlik için optimze)
+
